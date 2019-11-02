@@ -7,4 +7,5 @@ Javascript bookmarklet for Powerschool
 3. Add new bookmark
 4. Set name to anything you want (ex: Powerschool Analysis)
 5. Set URL to the code below:
+
 <code>ee</code>
