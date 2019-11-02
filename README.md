@@ -5,4 +5,7 @@
 4. Set name to anything you want (ex: Powerschool Analysis)
 5. Set URL to the code below:
 
-<code>ee</code>
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
