@@ -3,4 +3,4 @@ Javascript bookmarklet for Powerschool
 [You can use numbers for reference-style link definitions][1]
 
 
-[1]: javascript:fgj;
+[1]: google.com
