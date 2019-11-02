@@ -1,4 +1,6 @@
 # ps-analysis
 Javascript bookmarklet for Powerschool
 
-<a href="javascript:(function()%7Balert('hello%20world')%3B%7D)()%3B">bookmarklet</a>
+<a href="javascript:function my_bookmarklet()
+                {alert('Hello World');}
+                my_bookmarklet();">Hello</a>
