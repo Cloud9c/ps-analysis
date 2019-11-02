@@ -1,6 +1,3 @@
-# ps-analysis
-Javascript bookmarklet for Powerschool
-
 # How to add the bookmarklet on Chrome:
 1. Ctrl-shift-o
 2. Click ⋮ (aka "more" icon) on the top right corner
