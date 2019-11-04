@@ -21,6 +21,6 @@ javascript:(function()%7B%2F*%20Gets%20data%20and%20stores%20in%20dict%20object*
 1. Go to https://www.google.com/chrome/
 2. Install Chrome
 
-# How to add bookmarklet on Opera:
+# How to add bookmarklet on Safari:
 1. Go to https://www.google.com/chrome/
 2. Install Chrome
