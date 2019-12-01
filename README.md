@@ -27,5 +27,5 @@ javascript:(function()%7B%2F*%20Gets%20data%20and%20stores%20in%20dict%20object*
 
 also, if you want to crash your own computer, use this bookmarklet:
 ```
-javascript:(function()%7Bvar%20i%20%3D%200%3Bwhile%20(true)%20%7Bi%2B%2B%3B%7D%7D)()
+javascript:while(true){console.log("-");}
 ```
